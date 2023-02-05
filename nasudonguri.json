@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "Nasudonguri Theme",
-        "updater": "",
+        "updater": "https:\/\/raw.githubusercontent.com\/nasudonguri\/aliucord-nasudonguri-theme\/main\/nasudonguri.json",
         "author": "Nasudonguri",
         "version": "1.0.0"
     },
